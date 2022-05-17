@@ -9,7 +9,7 @@ I've been programming and creating apps for approximately four years, and I'm ex
 * 🌍  I'm based in North Carolina.
 * 🧠  I'm learning the fundamentals of Web3 technologies.
 * 🤝  I'm open to collaborating on intriguing projects and enhancements on previous work.
-* ⚡  I traded in my fighting shoes for an ergonomic chair and a multi monitor setup.
+* ⚡  I traded in my wrestling shoes for an ergonomic chair and a multi monitor setup.
 
 ### Skills
 
